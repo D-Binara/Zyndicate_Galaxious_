@@ -10,8 +10,10 @@ Step 1: Open git bash and run the following codes.
 
 After that, there will be a folder called Zyndicate_Galaxious_ .
 
-Step 2:Open that folder with VS code 
+Step 2: Open that folder with VS code 
 
-Step 3:Open the new terminal and run the following codes.
+Step 3: Open the new terminal and run the following codes.	
 
+ 	npm install
+  	npm start
 
