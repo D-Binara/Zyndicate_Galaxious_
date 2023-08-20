@@ -4,9 +4,10 @@ Galaxious booking app developed by team Zyndicate
 How to run this app?
 
 Step 1: Open git bash and run the following codes.
-	```
+	
+ 
 	git clone https://github.com/D-Binara/Zyndicate_Galaxious_.git
- 	```
+
 After that, there will be a folder called Zyndicate_Galaxious_ .
 
 Step 1:Open that folder with VS code
