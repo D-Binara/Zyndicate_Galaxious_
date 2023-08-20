@@ -16,4 +16,8 @@ Step 3: Open the new terminal and run the following codes.
 
  	npm install
   	npm start
+After that, there will be a generated QR code.
+
+Step 4: Open the Expo app on your mobile. And scan the QR code.
+
 
