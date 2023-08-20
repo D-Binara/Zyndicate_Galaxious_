@@ -10,4 +10,8 @@ Step 1: Open git bash and run the following codes.
 
 After that, there will be a folder called Zyndicate_Galaxious_ .
 
-Step 1:Open that folder with VS code
+Step 2:Open that folder with VS code 
+
+Step 3:Open the new terminal and run the following codes.
+
+
